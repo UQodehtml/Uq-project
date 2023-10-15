@@ -2,3 +2,5 @@ Resolusi Syauqi di Bidang RPL :
 - Menguasai database
 - Menguasai pemrograman web
 - Menguasai pemrograman mobile
+- Menguasai OOP
+- Saya bercita-cita menjadi Mobile Developer alternatif lainnya menjadi Web Developer
